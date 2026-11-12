@@ -1,15 +1,20 @@
 # 👋 Hi there
 
-I'm **Szymon Czerny**, a Computer Science Engineering student at **Gdańsk University of Technology** and a **Salesforce Developer**. I am passionate about software engineering, cloud technologies, Artificial Intelligence, and DevOps, constantly seeking opportunities to learn, build, and improve impactful solutions.
+I'm **Szymon Czerny**, a Computer Science Engineering student at **Gdańsk University of Technology** and a **Salesforce Developer at Capgemini**. I am passionate about software engineering, cloud technologies, Artificial Intelligence, and DevOps, constantly seeking opportunities to learn, build, and deliver impactful solutions.
+
+By combining academic knowledge with professional experience in the Salesforce ecosystem, I am developing a strong foundation in cloud application development, business process automation, and enterprise software engineering.
 
 ---
 
 ## 🚀 Expertise
 
-I am currently pursuing my Engineering degree in Computer Science at Gdańsk University of Technology while working as a Salesforce Developer. My experience combines software engineering fundamentals with hands-on development in the Salesforce ecosystem, where I build business solutions, automate processes, and work with cloud technologies.
+I am currently pursuing my Engineering degree in Computer Science at Gdańsk University of Technology while working as a Salesforce Developer. In my day-to-day role, I design, develop, and maintain Salesforce solutions, working with technologies such as **Apex**, **Lightning Web Components (LWC)**, **SOQL**, and **OmniStudio** to deliver scalable business applications and improve operational efficiency.
 
-Alongside my professional work, I remain highly interested in Artificial Intelligence, Machine Learning, and DevOps. I enjoy exploring how modern AI solutions can be integrated into scalable software systems and how efficient deployment practices can improve development workflows.
+My experience includes troubleshooting complex issues, implementing new features, supporting deployments across multiple environments, and collaborating with cross-functional teams to deliver high-quality solutions within enterprise-scale projects.
 
+Alongside my professional work, I remain highly interested in **Artificial Intelligence**, **Machine Learning**, **Cloud Computing**, and **DevOps**. I enjoy exploring how modern AI solutions can be integrated into business applications and how automation, CI/CD practices, and cloud-native architectures can enhance software development processes.
+
+I am always eager to expand my technical expertise, take on new challenges, and contribute to innovative projects that create meaningful value.
 
 ---
 
